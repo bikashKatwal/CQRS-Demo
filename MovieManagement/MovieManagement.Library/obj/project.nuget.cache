@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bXNFm6xk3VNYc48MJYclrAV8Y9HW6KkpoXczFINZWZzuzMs2bkd1+F0u72AkQNFYSR+0/+Q8fe2JMtBOckd66Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\Design Pattern\\CQRS Practice\\MovieManagement\\MovieManagement.Library\\MovieManagement.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bikas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
